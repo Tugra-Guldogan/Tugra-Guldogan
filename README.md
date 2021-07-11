@@ -50,7 +50,7 @@
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src=
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" width="100" hight="50">
 </p>
 </br>
 </br>
