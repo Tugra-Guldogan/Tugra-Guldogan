@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# Konnichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/05/6c/58/056c584d9335fcabf080ca43e583e3c4.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://gifimage.net/wp-content/uploads/2017/10/hello-anime-gif-11.gif">
 </div>
 
 </br>
@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 14 years old Machine Learning & Artificial Intelligence Enthusiast from Turkey.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
