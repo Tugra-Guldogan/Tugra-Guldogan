@@ -1,7 +1,7 @@
 # Konnichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://gifimage.net/wp-content/uploads/2017/10/hello-anime-gif-11.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/4c/97/f6/4c97f699ee7fe0d40c8b2f825f302b4d.gif">
 </div>
 
 </br>
