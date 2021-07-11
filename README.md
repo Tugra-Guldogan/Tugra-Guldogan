@@ -53,7 +53,7 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" width="200" highth="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="120" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/nintendo.svg" alt="nintendo" width="150" hight="50"
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/nintendo.svg" alt="nintendo" width="170" hight="50"
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/chrome.svg" alt="chrome" width="153" hight="50">
 <img src="" width="100" hight="50">
 </p>
