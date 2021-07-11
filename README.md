@@ -1,7 +1,7 @@
 # Konnichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/4c/97/f6/4c97f699ee7fe0d40c8b2f825f302b4d.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://64.media.tumblr.com/8ad5ef23cab77faf004601c3201fc127/tumblr_oalo4fRB5M1tydz8to1_540.gifv">
 </div>
 
 </br>
