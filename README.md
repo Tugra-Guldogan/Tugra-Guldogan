@@ -1,4 +1,4 @@
-# Konnichiwa 👋
+# Konnichiwa 👋🏻
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://64.media.tumblr.com/15df33af563301da61a47e2e7f009416/tumblr_obg1bkefkL1tydz8to1_540.gifv">
