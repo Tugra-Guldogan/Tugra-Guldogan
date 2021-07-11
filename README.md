@@ -42,7 +42,7 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" width="150" hight="120">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" width="85" highth="50">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" width="120" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" width="115" hight="50">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" width="112" hight="50">
 </br>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/angular.svg" alt="angular" width="160" highth="50">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" width="120" highth="50">
