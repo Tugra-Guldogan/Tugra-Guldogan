@@ -80,7 +80,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/TugraGuldogan">
+<a href="https://www.reddit.com/user/Tugra44"
   <img align="left" alt=" Reddit" width="140" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/reddit.svg" />
 </a>
 <a href="https://steamcommunity.com/id/Tugra-Guldogan//">
