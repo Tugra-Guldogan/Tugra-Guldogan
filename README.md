@@ -1,8 +1,7 @@
 # Konnichiwa 👋🏻
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="![image](https://user-images.githubusercontent.com/82103661/126868578-0c62157c-32a1-44f0-ad5d-3613cce11f04.png)
-">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/ac/ed/36/aced36d42d8844587ed8d5d0457fdd19.gif">
 </div>
 
 </br>
