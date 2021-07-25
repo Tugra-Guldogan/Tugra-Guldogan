@@ -89,7 +89,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 </a>
 <a href="https://reddit.com/user/Tugra44/">
- <img align="left" alt="Reddit" width="150" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNet/ColoredBadges/master/svg/social/reddit.svg" />
+ <img align="left" alt="Reddit" width="140" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNet/ColoredBadges/master/svg/social/reddit.svg" />
  </p>
  
 
