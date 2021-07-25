@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=efectn&langs_count=8&layout=compact&hide=css,HTML,EmacsLisp,Python&theme=darcula&card_width=400)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tugra-Guldogan&langs_count=8&layout=compact&hide=css,HTML,EmacsLisp,Python&theme=darcula&card_width=400)
