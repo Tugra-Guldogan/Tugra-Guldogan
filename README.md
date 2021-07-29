@@ -73,7 +73,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/43/91/5b/43915b2d7d46311198a624953a4921e7.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉
 
 <a href="mailto:tugraguldogan44@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" />
