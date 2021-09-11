@@ -1,7 +1,7 @@
 # Konnichiwa 👋🏻
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/9f/7d/de/9f7dde534a945fd24656c7abbdbea07e.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://pbs.twimg.com/media/Ebb0f2OXsAEFQDG?format=jpg&name=medium">
 </div>
 
 </br>
