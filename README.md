@@ -1,4 +1,4 @@
-# Konnichiwa 👋🏻
+# Hello 👋🏻
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://pbs.twimg.com/media/Ebb0f2OXsAEFQDG?format=jpg&name=medium">
