@@ -1,7 +1,7 @@
 # Hello 👋🏻
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://pbs.twimg.com/media/Ebb0f2OXsAEFQDG?format=jpg&name=medium">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.imgur.com/Z5A1B2n.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm 14 years old Machine Learning & Artificial Intelligence Enthusiast from Turkey.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://pbs.twimg.com/media/EXK3KkOWsAAXKOz?format=jpg&name=medium">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/Ax0mZPR.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -70,7 +70,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://pbs.twimg.com/media/EYIoUcaWoAgOjzu?format=jpg&name=medium">
+<img hight="320" width="450" align="right" alt="GIF" src="https://i.imgur.com/0zE0KS6.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉
