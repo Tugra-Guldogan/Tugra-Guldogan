@@ -13,7 +13,7 @@
 
 ### - I'm 14 years old Machine Learning & Artificial Intelligence Enthusiast from Turkey.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.waterfall.social/images/2d00e49808a2edf0af65802c25c9be80/waterfall_9eaf9694e296fb8d73bdfee631ef97ea_1280.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://acegif.com/wp-content/uploads/funny-anime-gif-1.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -70,7 +70,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://data.whicdn.com/images/356988136/original.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://c.tenor.com/UsDjcyxJmwcAAAAC/jujutsu-kaisen-jujutsu.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉
