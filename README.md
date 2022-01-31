@@ -13,7 +13,7 @@
 
 ### - I'm 14 years old Machine Learning & Artificial Intelligence Enthusiast from Turkey.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://steamuserimages-a.akamaihd.net/ugc/824565659835126094/B4DBB3CB1982B696D8AFAF379FA238DFB6FF21B4/">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.waterfall.social/images/2d00e49808a2edf0af65802c25c9be80/waterfall_9eaf9694e296fb8d73bdfee631ef97ea_1280.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
