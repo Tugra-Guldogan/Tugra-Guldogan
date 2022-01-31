@@ -70,7 +70,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://i.imgur.com/0zE0KS6.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://data.whicdn.com/images/356988136/original.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉
