@@ -13,7 +13,7 @@
 
 ### - I'm 14 years old Machine Learning & Artificial Intelligence Enthusiast from Turkey.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/Ax0mZPR.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://www.technopat.net/sosyal/eklenti/pp-gif.852845/">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
