@@ -1,4 +1,4 @@
-# Hello 👋🏻
+# Hello 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/3d/45/38/3d4538eb6ef2b74fdb841b66fc0a1724.gif">
