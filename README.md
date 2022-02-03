@@ -1,7 +1,8 @@
 # Hello 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/3d/45/38/3d4538eb6ef2b74fdb841b66fc0a1724.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="![c1](https://user-images.githubusercontent.com/82103661/152329466-6fc5b7dc-1b6a-49b4-bdd4-866c742e86a8.gif)
+">
 </div>
 
 </br>
