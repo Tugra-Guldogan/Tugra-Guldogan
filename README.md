@@ -13,7 +13,7 @@
 
 ### - I'm 14 years old Machine Learning & Artificial Intelligence Enthusiast from Turkey.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://acegif.com/wp-content/uploads/funny-anime-gif-1.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="http://25.media.tumblr.com/0d7fde24660cee6cb7fd5b2a76ec89bf/tumblr_mrhb296FDX1rsstfio1_500.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
