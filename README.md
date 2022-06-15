@@ -88,7 +88,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Steam" width="135" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" />
 </a>
 </a>
-<a href="https://reddit.com/user/Tugra44/">
+<a href="https://reddit.com/user/Tugra_Guldogan/">
  <img align="left" alt="Reddit" width="140" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNet/ColoredBadges/master/svg/social/reddit.svg" />
  </p>
  
